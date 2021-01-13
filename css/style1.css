@@ -1,0 +1,36 @@
+
+.slider,.bg-color{
+    background-color:#FEEAE9 ;
+    border-radius: 10px;
+}
+
+.text-color{
+    color: #FF3081;
+}
+.color-btn{
+   background-color:#FF3081; 
+   color: white;
+   padding: 8px 20px; 
+   border-radius: 10px;
+   border: 0;
+}
+.color-btn:hover{
+   background-color: black;
+   color:white;
+}
+.categories img{
+    width: 100px;
+}
+
+.panda-card{
+    border: none;
+}
+.panda-card-footer{
+    background-color: white;
+    border: 0;
+}
+.input{
+    width: 18em;
+    height: 3em;
+    border: none;
+}
